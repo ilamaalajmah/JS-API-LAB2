@@ -21,3 +21,9 @@
     margin-bottom: 10px;
     color: black;
 }
+
+@media (max-width: 768px) {
+    .Chacters {
+        justify-content: center; 
+    }
+}
